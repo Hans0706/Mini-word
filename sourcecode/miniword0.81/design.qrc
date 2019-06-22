@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>black.qss</file>
+        <file>white.qss</file>
+        <file>edit-copy.png</file>
+        <file>editcut.png</file>
+        <file>editpaste.png</file>
+        <file>editredo.png</file>
+        <file>editundo.png</file>
+        <file>filenew.png</file>
+        <file>filesave.png</file>
+        <file>fileprint.png</file>
+        <file>textbold.png</file>
+        <file>textcenter.png</file>
+        <file>textitalic.png</file>
+        <file>textjustify.png</file>
+        <file>textleft.png</file>
+        <file>textright.png</file>
+        <file>textunder.png</file>
+        <file>open-file.png</file>
+        <file>start.png</file>
+    </qresource>
+</RCC>
